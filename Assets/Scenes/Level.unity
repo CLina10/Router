@@ -6473,7 +6473,7 @@ MonoBehaviour:
   acceleration: 10
   friction: 10
   rotationSmoothtime: 5
-  health: 1
+  health: 10
   body: {fileID: 1695624248}
   bulletPrefab: {fileID: 1845641270970838, guid: 9c3fb5e4068347342a946893344e7272,
     type: 2}
